@@ -46,7 +46,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.MussadaqAhmad.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.MussadaqAhmad.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://mussadaq-ahmad-portfolio.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-mussadaq-ahmad-portfolio.vercel.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/mussadaq-ahmad-jamil-76119814a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MussadaqAhmad-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/mussadaq_ahmad_jamil/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-MussadaqAhmad-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:mussadaq900@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mussadaq900@gmail.com-blue?style=flat-square&logo=gmail"></a>
